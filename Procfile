@@ -1,0 +1,1 @@
+web: java -jar target/olds-bot-1.0.jar

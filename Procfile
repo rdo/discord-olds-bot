@@ -1,1 +1,1 @@
-web: java -jar target/olds-bot-1.0.jar
+web: java -Dserver.port=$PORT -jar target/spring-0.0.1-SNAPSHOT.jar

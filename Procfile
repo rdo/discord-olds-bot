@@ -1,1 +1,1 @@
-web: java -Dserver.port=8080 -jar target/olds-bot-0.0.1.jar
+web: java -jar target/olds-bot-0.0.1.jar

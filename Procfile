@@ -1,1 +1,1 @@
-web: java -jar target/olds-bot-0.0.1.jar
+web: java -Dserver.port=$PORT -jar target/olds-bot-0.0.1.jar
